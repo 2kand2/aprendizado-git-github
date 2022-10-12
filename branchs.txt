@@ -1,0 +1,19 @@
+Nesta aula ele abordou o conceito de branchs para que ficasse claro para que server e como utilizar.
+
+Branchs são ramos que servem para desenvolvermos features isoladas 
+A branch master é a principal
+
+como verificar o nome da branch que está?
+git branch
+
+como criar uma nova branch?
+git branch nomeDaNovaBranch
+
+como mudar de branch?
+git checkout "nome da branch"
+
+como deletar? 
+git branch -D nomeDaBranch
+
+como criar e navegar para um brnaco com um único comando?
+git checkout -b "nome da nova branch"
