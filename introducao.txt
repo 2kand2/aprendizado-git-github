@@ -1,0 +1,7 @@
+Objetivos do Módulo
+
+  Entender o que é importante
+  Aprender a instalar e configurar o GIT
+  Dominar os principais comandos do GIT
+  Aprender como usar as branchs
+  Entender o que é o GITHUB e como utiliza-lo
