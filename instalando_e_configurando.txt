@@ -1,0 +1,9 @@
+Na aula de instalação, basicamente ele pede para acessar a url: https://git-scm.com/downloads e baixe o programa de acordo com o sistema operacional que esteja utilizando ou que deseja utilizar.
+
+Na segunda parte, que seria a da confuguração temos uma sequência para seguir os passos.
+
+1. git config --global user.name "o seu nome"
+
+2. git config --global user.email "o seu email"
+
+  Feito para se identificar ao fazer commits
