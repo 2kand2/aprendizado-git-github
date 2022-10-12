@@ -1,0 +1,6 @@
+Para se conectar a um repositório basta clonar o repositório e depois 
+
+git push origin master/nome da branch que deseja mandar as alterações feitas
+
+nisso ele vai verificar a sua identidade e se tem permissão para acessar 
+
